@@ -1,16 +1,4 @@
 # sushi_restaurant_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+ ![original-a44bb303c67df27df5c38b8056bf74c6](https://github.com/Ahmedyehia122/-Sushi-Restaurant-App/assets/142153775/601555e3-abe5-4670-bb88-bd05aeda6f9e)
