@@ -29,7 +29,7 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/05c9673a-1fee-4835-ba3d-bc13e61a0bd5" width="200" >
  </div>
 
- ## 🛠 Dependencies
+ ## 💡 Dependencies
 
 
  #### google_fonts: ^6.1.0
@@ -39,7 +39,7 @@
 
  
   
-
+# 🌸🌸  Thank You For Your Time 🌸🌸
 
 
 
