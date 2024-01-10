@@ -1,7 +1,3 @@
- 
-
- 
-
 # 😊 sushi_restaurant_app
 
  A sushi-selling application
@@ -9,6 +5,12 @@
  ## 🚀 Getting Started
 
   ![original-a44bb303c67df27df5c38b8056bf74c6](https://github.com/Ahmedyehia122/-Sushi-Restaurant-App/assets/142153775/601555e3-abe5-4670-bb88-bd05aeda6f9e)
+
+   ## 📸 Screen Record
+  
+ 
+<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/26cf8cec-ebe8-4414-b4df-57dcbf2292ad
+"></video>
 
  ## 🏖️ Screenshots 
  
