@@ -33,8 +33,11 @@
 
 
  #### google_fonts: ^6.1.0
+   [google_fonts](https://pub.dev/packages/google_fonts) - A Flutter package to use fonts from fonts.google.com.
  #### provider: ^6.0.5
-  
+   [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable (State management).
+
+ 
   
 
 
